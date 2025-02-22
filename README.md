@@ -56,7 +56,7 @@ Las contribuciones son bienvenidas. Si deseas contribuir, por favor sigue los si
 
 ## Descargo de responsabilidad
 
-Este proyecto fue creado con fines educativos para aprender a utilizar Unity. Algunos de los sprites y otros recursos gráficos utilizados en este proyecto fueron tomados de diversas fuentes en internet. No reclamo ningún derecho sobre estos recursos y todos los derechos pertenecen a sus respectivos propietarios. Si eres el propietario de alguno de estos recursos y deseas que se eliminen, por favor contacta a [Dario](mailto:dvttsf@gmail.com).
+Este proyecto fue creado con fines educativos para aprender a utilizar Unity. Algunos de los sprites y otros recursos gráficos utilizados en este proyecto fueron tomados de diversas fuentes en internet. No reclamo ningún derecho sobre estos recursos y todos los derechos pertenecen a sus respectivos propietarios. Si eres el propietario de alguno de estos recursos y deseas que se eliminen, por favor contacta a [David](mailto:dvttsf@gmail.com).
 
 ## Licencia
 
@@ -64,4 +64,4 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENS
 
 ## Contacto
 
-Para cualquier duda o sugerencia, por favor contacta a [Dario](mailto:dvttsf@gmail.com) o visita mi [perfil de GitHub](https://github.com/DavidTSF).
+Para cualquier duda o sugerencia, por favor contacta a [David](mailto:dvttsf@gmail.com) o visita mi [perfil de GitHub](https://github.com/DavidTSF).
